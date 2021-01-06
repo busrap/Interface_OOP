@@ -1,0 +1,19 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\bin\Debug\Interface_2_7.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\bin\Debug\Interface_2_7.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\bin\Debug\Interface_2_7.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.csprojResolveAssemblyReference.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\bin\Debug\Interface_2_7.exe.config
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\bin\Debug\Interface_2_7.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\bin\Debug\Interface_2_7.pdb
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.csprojAssemblyReference.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.Form1.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.Properties.Resources.resources
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.csproj.GenerateResource.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.exe
+E:\Çalışmalar\A_MY\OOP\Ahmet hoca oop\Interface_2_7\Interface_2_7\obj\Debug\Interface_2_7.pdb
